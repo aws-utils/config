@@ -1,0 +1,20 @@
+{
+    "defaults": {
+        "function": {
+            "Code": null,
+            "Description": "Operation Code"
+        }
+    },
+    "operations": [
+        {
+            "name": "List Items",
+            "path": "/items",
+            "method": "get"
+        },
+        {
+            "name": "Add Item",
+            "path": "/items",
+            "method": "get"
+        }
+    ]
+}
